@@ -2,7 +2,6 @@
 - Located in Pune, Maharashtra
 - 👀 I’m interested in Data Transformation, Vizualisation, New Tools Learning
 - 🌱 I have acquired skills into PowerBi, Python, Tableau, Advance Excel & MIS Reports.
-<!---
 ##Projects
 1. Exploratory Data Analysis on Airbnb Hotel Bookings :
 - Conducted in depth analysis on Airbnb's Hotel bookings dataset, into which there was a data relating to customer preferences while booking hotels.
